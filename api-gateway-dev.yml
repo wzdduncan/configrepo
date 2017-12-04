@@ -55,7 +55,7 @@ zuul:
       path: /paper/**
 
 apigateway:
-  customerTestStr: apigateway 属性更新...ggggg
+  customerTestStr: apigateway 属性更新...
 
 
 

@@ -56,7 +56,7 @@ endpoints:
     enabled: true
 
 paper:
-  customerTestStr: paper 属性更新..ppppppppp
+  customerTestStr: paper 属性更新..
 
 
 
