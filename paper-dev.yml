@@ -50,13 +50,8 @@ spring:
 #    jdbcTypeForNull: NULL
 #    mapUnderscoreToCamelCase: true
 
-# bus  config-server端刷新配置，客户端生效设置
-endpoints:
-  bus:
-    enabled: true
-
 paper:
-  customerTestStr: paper 属性更新..7654321
+  customerTestStr: paper 属性更新..
 
 
 
