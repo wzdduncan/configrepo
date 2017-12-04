@@ -51,7 +51,7 @@ spring:
 #    mapUnderscoreToCamelCase: true
 
 paper:
-  customerTestStr: paper 属性更新..
+  customerTestStr: paper 属性更新..111
 
 
 

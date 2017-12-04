@@ -39,6 +39,10 @@ spring:
     username: admin
     password: admin
 
+  sleuth:
+    sampler:
+      percentage: 1
+
 mybatis:
   mapperLocations: classpath:mybatis/mapper/*.xml
   configuration:
@@ -55,7 +59,7 @@ zuul:
       path: /paper/**
 
 apigateway:
-  customerTestStr: apigateway 属性更新...
+  customerTestStr: apigateway 属性更新...111
 
 
 
